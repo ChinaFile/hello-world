@@ -1,2 +1,3 @@
 # hello-world
 ChinaFile is an online magazine published by the Center on U.S.-China Relations at Asia Society, dedicated to promoting an informed, nuanced, and vibrant public conversation about China, in the U.S. and around the world.
+ChinaFile publishes original reporting and analysis across a wide spectrum of topics in writing, photography, and video. We devote our energy to underreported subjects, innovative and elegant storytelling, experts interested in engaging non-experts, Chinese analysts who want to write for international audiences, and questions we feel haven’t been adequately explained by other publications. Our contributors are journalists, scholars, and other experts working both inside and outside of China.
